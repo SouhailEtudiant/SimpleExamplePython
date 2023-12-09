@@ -1,6 +1,6 @@
 """
 Un script python prenant 3 arguments dont le premier est l'opération voulue et les deux suivants 
-les deux entiers 
+les deux entiers Test
 """
 
 import calc
